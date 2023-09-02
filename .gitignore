@@ -11,7 +11,5 @@
 /web/app/test/viz/**
 /npm-debug.log
 /node_modules
-/dist
 /.vs
-/web/docs/
 pnpm-lock.yaml
